@@ -103,4 +103,5 @@ public class IndexController {
     public @ResponseBody String data() {
         return "데이터정보";
     }
+
 }
